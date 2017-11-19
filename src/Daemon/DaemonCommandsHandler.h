@@ -57,3 +57,4 @@ private:
   bool start_mining(const std::vector<std::string>& args);
   bool stop_mining(const std::vector<std::string>& args);
 };
+bynacoin --print-genesis-tx
